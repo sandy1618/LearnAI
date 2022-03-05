@@ -15,7 +15,10 @@ Check out the :doc:`usage` section for further information, including how to
 
 Contents
 --------
-
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   
+   notebooks/OutputExamples
 
-   usage
+
