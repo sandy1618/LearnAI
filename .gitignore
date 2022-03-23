@@ -2,3 +2,4 @@ docs/build
 .venv
 .vscode
 .ipynb_checkpoints
+data
